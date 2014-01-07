@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 UCML: Ubiquitous Control Modeling Language for Android
 Licensed under GPLv3
 
@@ -36,3 +37,9 @@ Purpose:
 *******************************************************************
 I will be happy if you contact me for making much better software with original ideas that belongs to us 
 
+=======
+UCML
+====
+
+Ubiquitous Control Modeling Language for Android... A project since 2009 
+>>>>>>> b6b25ffb5a2e074382f1b02d48eed9de70684f37
