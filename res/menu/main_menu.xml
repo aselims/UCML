@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:id="@+id/new_file" android:alphabeticShortcut="n"
+		android:title="New Module" 
+		android:icon="@drawable/adjust"/>
+	<item android:id="@+id/list" android:title="List Modules"
+	android:icon="@drawable/bevel"></item>
+	<item android:id="@+id/device_info" android:title="Sensors Info"
+	android:icon="@drawable/gear"></item>
+	<item android:id="@+id/about" android:title="About"
+	android:icon="@drawable/helical"></item>
+	<item android:id="@+id/helpu" android:title="GlanceHelp"
+	android:icon="@drawable/pinion"></item>
+
+
+
+</menu>
